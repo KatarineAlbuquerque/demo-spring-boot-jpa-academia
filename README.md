@@ -26,8 +26,8 @@ Demonstração de uso de API Rest com Spring Boot e JPA, com a ferramenta Swagge
 
 ### **Katarine Albuquerque**
 
-**Linkedin:** <a href="https://www.linkedin.com/in/katarine-albuquerque/">/katarine-albuquerque</a>
-**GitHub:** <a href="https://github.com/KatarineAlbuquerque">/KatarineAlbuquerque</a>
+**Linkedin:** <a href="https://www.linkedin.com/in/katarine-albuquerque/">/katarine-albuquerque</a><br/>
+**GitHub:** <a href="https://github.com/KatarineAlbuquerque">/KatarineAlbuquerque</a><br/>
 **Projetos:** <a href="https://github.com/KatarineAlbuquerque/my-portfolio">/my-portfolio</a>
 ###
 
