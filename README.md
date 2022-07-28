@@ -1,5 +1,5 @@
 
-<center>
+<div align="center">
 
 # **Projeto Academia JPA**
 ## **Spring Boot**
@@ -32,4 +32,4 @@ Demonstração de uso de API Rest com Spring Boot e JPA, com a ferramenta Swagge
 **Projetos:** [/my-portfolio]("https://github.com/KatarineAlbuquerque/my-portfolio")
 ###
 
-</center>
+</div>
